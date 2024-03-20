@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ext" tvg-name="A&E" tvg-logo="" group-title="TV",A&E
+http://181.78.105.146:2000/play/a03f/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="AMC" tvg-logo="" group-title="TV",AMC
+http://stream.flynetwifi.com:1935/live/mobile-079/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="AXN" tvg-logo="" group-title="TV",AXN
+http://181.78.105.146:2000/play/a05y/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL RCN" tvg-logo="" group-title="TV",CANAL RCN
+http://stream.flynetwifi.com:1935/live/mobile-072/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="CARACOL" tvg-logo="" group-title="TV",CARACOL
+http://livex.pop-app.live/s4n/poplive/ch350/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="TV",CARTOON NETWORK
+http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE CANAL" tvg-logo="" group-title="TV",CINE CANAL
+http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="CINEMAX" tvg-logo="" group-title="TV",CINEMAX
+http://45.90.105.74:25461/bud-378835/f362c6a219/37967
+#EXTINF:-1 tvg-id="ext" tvg-name="CITY TV" tvg-logo="" group-title="TV",CITY TV
+http://190.121.128.250:8081/play/a063
+#EXTINF:-1 tvg-id="ext" tvg-name="CNN" tvg-logo="" group-title="TV",CNN
+http://stream.flynetwifi.com:1935/live/mobile-061/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="TV",COMEDY CENTRAL
+http://stream.flynetwifi.com:1935/live/mobile-001/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY H&H" tvg-logo="" group-title="TV",DISCOVERY H&H
+http://181.78.105.146:2000/play/a03g/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY TURBO" tvg-logo="" group-title="TV",DISCOVERY TURBO
+http://livex.pop-app.live/s4n/poplive/ch556/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="DREAMWORKS" tvg-logo="" group-title="TV",DREAMWORKS
+http://stream.flynetwifi.com:1935/live/mobile-099/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="E!" tvg-logo="" group-title="TV",E!
+http://stream.flynetwifi.com:1935/live/mobile-156/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="FX" tvg-logo="" group-title="TV",FX
+http://170.254.18.106/FX/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="FX LA" tvg-logo="" group-title="TV",FX LA
+http://stream.flynetwifi.com:1935/live/mobile-123/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="GOLDEN EDGE" tvg-logo="" group-title="TV",GOLDEN EDGE
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO" tvg-logo="" group-title="TV",HBO
+http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO 2" tvg-logo="" group-title="TV",HBO 2
+http://170.254.18.106/HBO2/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO FAMILY" tvg-logo="" group-title="TV",HBO FAMILY
+http://livex.pop-app.live/s4n/poplive/ch515/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO PLUS" tvg-logo="" group-title="TV",HBO PLUS
+http://livex.pop-app.live/s4n/poplive/ch516/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO SIGNATURE" tvg-logo="" group-title="TV",HBO SIGNATURE
+http://livex.pop-app.live/s4n/poplive/ch517/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO XTREME" tvg-logo="" group-title="TV",HBO XTREME
+http://45.90.105.74:25461/bud-378835/f362c6a219/37993
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO2" tvg-logo="" group-title="TV",HBO2
+http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HISTORY" tvg-logo="" group-title="TV",HISTORY
+http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HISTORY 2" tvg-logo="" group-title="TV",HISTORY 2
+http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="MULTIPREMIER" tvg-logo="" group-title="TV",MULTIPREMIER
+http://stream.flynetwifi.com:1935/live/mobile-021/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="TV",NATIONAL GEOGRAPHIC
+http://stream.flynetwifi.com:1935/live/mobile-091/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="NICK JR" tvg-logo="" group-title="TV",NICK JR
+http://stream.flynetwifi.com:1935/live/mobile-011/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="NICKELODEON" tvg-logo="" group-title="TV",NICKELODEON
+http://livex.pop-app.live/s4n/poplive/ch512/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="PARAMOUNT NETWORK" tvg-logo="" group-title="TV",PARAMOUNT NETWORK
+http://stream.flynetwifi.com:1935/live/mobile-004/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="SONY MOVIES" tvg-logo="" group-title="TV",SONY MOVIES
+http://45.90.105.74:25461/bud-378835/f362c6a219/37980
+#EXTINF:-1 tvg-id="ext" tvg-name="SONY CHANNEL" tvg-logo="" group-title="TV",SONY CHANNEL
+http://45.90.105.74:25461/bud-378835/f362c6a219/14690
+#EXTINF:-1 tvg-id="ext" tvg-name="SPACE" tvg-logo="" group-title="TV",SPACE
+http://181.78.105.146:2000/play/a04x/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="STAR" tvg-logo="" group-title="TV",STAR
+http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TOOMCAST" tvg-logo="" group-title="TV",TOOMCAST
+http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TNT SERIES" tvg-logo="" group-title="TV",TNT SERIES
+http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TNT" tvg-logo="" group-title="TV",TNT
+http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="UNIVERSAL TV" tvg-logo="" group-title="TV",UNIVERSAL TV
+http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
